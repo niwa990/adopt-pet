@@ -1,4 +1,4 @@
-# adopt-pet
+# adopt-pet　クイズアプリチュートリアル
 
 ## Project setup
 ```
